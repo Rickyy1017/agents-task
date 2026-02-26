@@ -66,3 +66,5 @@ $ cast --help
 ```
 # agents-task
 # oxErc
+# oxErc
+# 0xERC
