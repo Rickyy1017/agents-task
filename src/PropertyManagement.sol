@@ -61,7 +61,7 @@ contract PropertyManagement is AccessControl {
 
         emit PropertyCreated(propertyCounter, _name, _price);
     }
-
+ 
     // delete
 
     function removeProperty(uint256 _id)
