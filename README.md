@@ -68,3 +68,4 @@ $ cast --help
 # oxErc
 # oxErc
 # 0xERC
+# 0xERC
